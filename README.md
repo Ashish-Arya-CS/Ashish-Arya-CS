@@ -5,7 +5,7 @@
 ![](https://github.com/Ashish-Arya-CS/Ashish-Arya-CS/blob/master/carbon%20(1).png)
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast for Machine Learning and Deep Learning. Self driving cars and competetive programming boost my adrenaline.Currently exploring fields like Cloud Computing,MLOPs and Data Science. <br>
+#### Always curious to learn cutting edge technology. Enthusiastic for Machine Learning and Deep Learning. Self driving cars and competetive programming excites me.Currently exploring fields like Cloud Computing,MLOPs and Data Science. <br>
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
