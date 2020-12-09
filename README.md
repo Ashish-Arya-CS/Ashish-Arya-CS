@@ -1,6 +1,6 @@
 ### Hello Ashish Here! 👋 नमस्ते मेरा नाम आशीष आर्य है| 🙏
-[![](https://img.shields.io/badge/LinkedIn-AshishArya-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ashish-arya-65923b16b/)
-[![](https://img.shields.io/badge/Gmail-arya.ashish860@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:arya.ashish860@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-AshishArya-blue?logo=Linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/ashish-arya-65923b16b/)
+[![](https://img.shields.io/badge/Gmail-arya.ashish860@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=white)](mailto:arya.ashish860@gmail.com)
 
 ![](https://github.com/Ashish-Arya-CS/Ashish-Arya-CS/blob/master/carbon%20(1).png)
 
